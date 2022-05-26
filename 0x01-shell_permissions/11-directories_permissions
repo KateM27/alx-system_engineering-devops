@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R ugo+x dir1 dir2 my_dir
+sudo chmod -R +111 */
