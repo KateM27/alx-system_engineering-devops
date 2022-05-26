@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R ugo+x dir1 dir2
+chmod -R 711 dir1 dir2
