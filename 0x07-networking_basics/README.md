@@ -11,9 +11,9 @@ This project is about:
 * The ping command/ICMP
 * And much more!
 
-## Tasks
+# Tasks
 
-*OSI Model*
+### OSI Model
 
 **What is the OSI model?**
 1. Set of Specifications that network hardware manufacturers must repsect
@@ -25,7 +25,7 @@ This project is about:
 2. From the lowest to the highest level
 3. Randomly
 
-*Types of network*
+### Types of network
 
 **What type of network is a computer in local connected to?**
 1. Internet
@@ -42,7 +42,7 @@ This project is about:
 2. WAN
 3. LAN
 
-*MAC and IP address*
+### MAC and IP address
 
 **What is a MAC address?**
 1. The name of a network interface
@@ -54,9 +54,9 @@ This project is about:
 2. The unique identifier of a network interface
 3. Is a number that network devices use to connect to networks
 
-*TCP and UDP*
+### TCP and UDP
 
-**Which statement is correst for the TCP box:**
+**Which statement is correct for the TCP box:**
 1. It is a protocol that is transferring data in a slow way but surely
 2. It is a protocol that is transferring data in a fast way and might lose data along in the process
 
@@ -68,7 +68,7 @@ This project is about:
 1. Have you received boxes x, y, z?
 2. May I increase the rate at which I'm sending you boxes?
 
-*TCP and UDP Ports*
+### TCP and UDP Ports
 
 Once packets have been sent to the right network device using IP using either UDP or TCP as a mode of transportation, it needs to actually enter the network device.
 
@@ -82,7 +82,7 @@ While the full list of ports should not be memorized, it is important to know th
 
 Note that a specific IP + port = socket
 
-*Is the host on the network*
+### Is the host on the network
 
 The Internet Control Message Protocol (ICMP) is a protocol in the Internet protocol suite. It is used by network devices, to check if other network devices are available on the network. The command ping uses ICMP to make sure that a network device remains online or to troubleshoot issues on the network.
 
