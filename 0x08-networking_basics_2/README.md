@@ -1,4 +1,4 @@
-# 0x08. Neetworking Basics #1
+# 0x08. Networking Basics #1
 
 ## About
 This project is about:
